@@ -150,6 +150,7 @@ public class StudentManagement {
             System.out.println("6. Sort Students by Name");
             System.out.println("7. Total Student Count");
             System.out.println("8. Exit");
+	    System.out.println("Feature: Search Student option updated.");
             System.out.print("Enter choice: ");
             ch = Integer.parseInt(sc.nextLine());
 
